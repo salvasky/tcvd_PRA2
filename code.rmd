@@ -1,8 +1,9 @@
 ---
 title: "Tipologia i Cicle de Vida de les Dades. Pràctica 2"
-author: "*Salvador Sanchis Beneseit* i *Joan Manuel Lopez Ruiz*"
-date: '`r format(Sys.Date(),"%e %B de %Y")`'
-output:
+author: '*Salvador Sanchis Beneseit* i *Joan Manuel Lopez Ruiz*'
+date: '`r format(Sys.Date(),"%e %B de %Y")`'output:
+  pdf_document:
+    toc: yes
   html_document:
     toc: yes
 ---
@@ -893,11 +894,15 @@ El present document HTML ha estat generat amb RStudio a partir d'un fitxer Rmd (
 <br>\
 <br>
 
++---------------------------+----------------------------------------------------+
 | Contribucions             | Firma                                              |
-|---------------------------|----------------------------------------------------|
++===========================+====================================================+
 | Investigació prèvia       | Salvador Sanchis Beneseit i Joan Manuel Lopez Ruiz |
++---------------------------+----------------------------------------------------+
 | Redacció de les respostes | Salvador Sanchis Beneseit i Joan Manuel Lopez Ruiz |
++---------------------------+----------------------------------------------------+
 | Desenvolupament codi      | Salvador Sanchis Beneseit i Joan Manuel Lopez Ruiz |
++---------------------------+----------------------------------------------------+
 
 \
 <br>
